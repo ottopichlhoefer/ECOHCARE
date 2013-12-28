@@ -1,4 +1,4 @@
 ECOHCARE
 ========
 
-Ecology of Care in Austria
+The Ecology of Medical Care in Austria
