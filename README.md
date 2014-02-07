@@ -30,7 +30,7 @@ Methods
 - Primary Completion Date:	October 2011 (Final data collection date for primary outcome measure)
 
 - Eligibility
-    - Ages Eligible for Study:  	15 Years and older
+    - Ages Eligible for Study:  	16 Years and older
     - Genders Eligible for Study:  	Both
     - Accepts Healthy Volunteers:  	Yes
     - Sampling Method:  	Probability Sample
@@ -38,6 +38,6 @@ Methods
 
 - Criteria
     - Inclusion Criteria: 15 years and older
-    - Exclusion Criteria: younger than 15 years
+    - Exclusion Criteria: younger than 16 years
 
 
