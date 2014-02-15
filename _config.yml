@@ -1,0 +1,15 @@
+title: ECOHCARE
+subtitle: The Ecology of Medical Care in Austria
+desc: The Ecology of Medical Care in Austria
+sub-desc: Erklärung zu ECOHCARE...
+
+disclaimer: Fußnoten...
+
+name: Otto Pichlhöfer
+email: otto.pichlhoefer@meduniwien.ac.at
+github: https://github.com/ottopichlhoefer
+twitter: https://twitter.com/docnord
+#build config
+# server: true
+# auto: true
+markdown: redcarpet
