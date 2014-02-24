@@ -2,7 +2,6 @@
 layout: post
 title: I Am a Web Designer / Developer, But Read the Job Description
 desc: I’ve been a web designer / developer for almost 15 years. Wow, that's a long time to have a single job title. But technology changes so much, even within a small corner of it, that the job title (or, at the very least, the description of it) changes too. <strong>SO READ THE JOB DESCRIPTION, NOT JUST THE TITLE.</strong>
-date: April 22, 2013
 
 permalink: /posts/i-am-a-web-designer-developer-but-read-the-job-description.html
 ---

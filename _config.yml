@@ -9,7 +9,13 @@ name: Otto Pichlhöfer
 email: otto.pichlhoefer@meduniwien.ac.at
 github: https://github.com/ottopichlhoefer
 twitter: https://twitter.com/docnord
-#build config
+# build config
 # server: true
 # auto: true
 markdown: redcarpet
+
+# RSS
+name: ECOHCARE
+# url            - the url of the site
+author: Otto Pichlhöfer
+copyright: Creative Commons Attribution-NoDerivs 3.0 Unported License
