@@ -1,8 +1,2 @@
-ottopichlhoefer.github.com
-===================
-
-<<<<<<< HEAD
-Personal website
-=======
-My Site
->>>>>>> gh-pages
+### Public Site of the ECOHCARE Project ###
+http://www.ecohcare.at
