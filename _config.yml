@@ -16,6 +16,6 @@ markdown: redcarpet
 
 # RSS
 name: ECOHCARE
-# url            - the url of the site
+url: ecohcare.at
 author: Otto Pichlhöfer
 copyright: Creative Commons Attribution-NoDerivs 3.0 Unported License
