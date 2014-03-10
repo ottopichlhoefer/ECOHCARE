@@ -174,11 +174,20 @@ a.source:hover {
   -o-transition: .75s; /* Opera */
 }
 .twitter {
-  fill: #00BBF5;transition: .75s;
+  fill: #00BBF5;
+  transition: .75s;
   -moz-transition: .75s; /* Firefox 4 */
   -webkit-transition: .75s; /* Safari and Chrome */
   -o-transition: .75s; /* Opera */
 }
+.rssicon {
+  fill: #ff6601;
+  transition: .75s;
+  -moz-transition: .75s; /* Firefox 4 */
+  -webkit-transition: .75s; /* Safari and Chrome */
+  -o-transition: .75s; /* Opera */
+}
+
 .github:hover {
   fill: #000000;
 }
@@ -186,6 +195,10 @@ a.source:hover {
   fill: #000000;
 }
 .twitter:hover {
+  fill: #000000;
+}
+
+.rssicon:hover {
   fill: #000000;
 }
 
