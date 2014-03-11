@@ -4,11 +4,11 @@ desc: ECOHCARE is the first study that assesses the health seeking behaviour of 
 # sub-desc: ECOHCARE is the first study that assesses the health seeking behaviour of the whole Austrian population.
 
 # disclaimer: Fußnoten...
-
-name: Otto Pichlhöfer
+author: Otto Pichlhöfer
 email: otto.pichlhoefer@meduniwien.ac.at
 github: https://github.com/ottopichlhoefer
 twitter: https://twitter.com/docnord
+
 # build config
 # server: true
 # auto: true
@@ -16,6 +16,5 @@ markdown: redcarpet
 
 # RSS
 name: ECOHCARE
-url: ecohcare.at
-author: Otto Pichlhöfer
+url: www.ecohcare.at
 copyright: Creative Commons Attribution-NoDerivs 3.0 Unported License
