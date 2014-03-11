@@ -16,5 +16,6 @@ markdown: redcarpet
 
 # RSS
 name: ECOHCARE
-url: www.ecohcare.at
+url: http://www.ecohcare.at
 copyright: Creative Commons Attribution-NoDerivs 3.0 Unported License
+rss_name: feed.rss

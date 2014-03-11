@@ -6,35 +6,35 @@
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
     <title>ECOHCARE</title>
-    <link>www.ecohcare.at</link>
+    <link>http://www.ecohcare.at</link>
     <description>RSS feed for ECOHCARE</description>
     <copyright>Creative Commons Attribution-NoDerivs 3.0 Unported License</copyright>
     <pubDate>Mon, 24 Feb 2014 00:00:00 +0100</pubDate>
     <item>
       <title>wiedereintest</title>
-      <link>www.ecohcare.at/2014/02/24/testpost.html</link>
+      <link>http://www.ecohcare.at/2014/02/24/testpost.html</link>
       <description>&lt;h2&gt;natürlich eine Überschrift&lt;/h2&gt;
 </description>
       <pubDate>Mon, 24 Feb 2014 00:00:00 +0100</pubDate>
-      <guid>www.ecohcare.at/2014/02/24/testpost.html</guid>
+      <guid>http://www.ecohcare.at/2014/02/24/testpost.html</guid>
       <dc:date>2014-02-24T00:00:00+01:00</dc:date>
     </item>
     <item>
       <title>The meaningful title</title>
-      <link>www.ecohcare.at/posts/2014-01-22-test.html</link>
+      <link>http://www.ecohcare.at/posts/2014-01-22-test.html</link>
       <description>&lt;h2&gt;Section 1.10.32 of &amp;quot;de Finibus Bonorum et Malorum&amp;quot;, written by Cicero in 45 BC&lt;/h2&gt;
 </description>
       <pubDate>Wed, 22 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>www.ecohcare.at/posts/2014-01-22-test.html</guid>
+      <guid>http://www.ecohcare.at/posts/2014-01-22-test.html</guid>
       <dc:date>2014-01-22T00:00:00+01:00</dc:date>
     </item>
     <item>
       <title>Test Post</title>
-      <link>www.ecohcare.at/post/test-post.html</link>
+      <link>http://www.ecohcare.at/post/test-post.html</link>
       <description>&lt;p&gt;This is a test post.&lt;/p&gt;
 </description>
       <pubDate>Thu, 09 May 2013 00:00:00 +0200</pubDate>
-      <guid>www.ecohcare.at/post/test-post.html</guid>
+      <guid>http://www.ecohcare.at/post/test-post.html</guid>
       <dc:date>2013-05-09T00:00:00+02:00</dc:date>
     </item>
     <dc:date>2014-02-24T00:00:00+01:00</dc:date>
