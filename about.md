@@ -4,7 +4,7 @@ layout: general
 title: About
 ---
 
-“The Ecology of Medical Care in Austria”
+“The Ecology of Health Care in Austria”
 ========================================
 A CATI aided telephone survey of the Austrian population to assess the occurrence of health complaints and the subsequent help seeking behavior with special emphasize on under-served minority groups - migrant populations, elder people, and female gender.
 
