@@ -20,6 +20,7 @@ Primary Outcome Measures
 
 Secondary Outcome Measures
 ---------------------------
+- The prevalence of various categories of self-help
 - The prevalence of depression and GAD assessed by the PHQ-2 and GAD-2 respectively.
 - The utilization of CAM and a classification scheme for CAM methods in Austria.
 - The use of case vignettes to calibrate response measures across various ethnic minority groups.
