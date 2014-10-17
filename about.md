@@ -37,6 +37,9 @@ Grant by the Anniversary Fund of the Austrian National Bank with the Title „Di
 
 [13683]: http://www.oenb.at/jublfonds/jublfonds/projectsearch?id=5106&action=detailview&origin=resultlist
 
+Copyright
+---------
+The material on this site is protected by the [Creative Commons BY-ND 3.0](http://creativecommons.org/licenses/by-nd/3.0/) license.
 
 Contact
 =======
