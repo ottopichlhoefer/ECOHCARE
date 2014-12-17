@@ -23,4 +23,6 @@ Die Regulierung des Zugangs zur Sekundär- und Tertiärversorgung kann das gesam
 ----------------------------------------------------------------------------------------------------------
 Die Autoren sind überzeugt, dass eine Regulierung des  Zugangs zur sekundären und tertiären Versorgungsebene in Österreich  die überhöhte Inanspruchnahme im stationären Bereich und in den Ambulanzen reduzieren und die die Primärversorgung stärken würde. . Sie weisen nachdrücklich darauf hin,  dass es mit diesem Vorschlag nicht zu  einer Einschränkung der freien Arztwahl kommen würde , sondern um eine Lenkung der PatientInnen zu den höheren  Versorgungsebenen in ihrem Interesse. Die freie Wahl des Arztes innerhalb der Primärversorgungsebene würde weiterhin aufrecht bleiben. Eine derartige Regulierung würde damit auch zur Dämpfung des  hohen Kostenanstiegs im österreichischen Gesundheitssystem und der Spitalslastigkeit beitragen.
 
+-------------------------------------------------------------------------------
+
 [^1]: Pichlhöfer O, Maier M. Unregulated access to health-care services is associated with overutilization—lessons from Austria. Eur J Public Health [Internet]. 2014 Nov 23; Available from: <http://dx.doi.org/10.1093/eurpub/cku189>

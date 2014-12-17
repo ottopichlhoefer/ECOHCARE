@@ -12,7 +12,7 @@ twitter: https://twitter.com/docnord
 # build config
 # server: true
 # auto: true
-markdown: redcarpet
+markdown: kramdown
 
 # RSS
 name: ECOHCARE
