@@ -12,6 +12,7 @@ twitter: https://twitter.com/docnord
 # build config
 # server: true
 # auto: true
+# markdown: kramdown kann keine Fussnoten
 markdown: kramdown
 
 # RSS
