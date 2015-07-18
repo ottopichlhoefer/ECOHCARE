@@ -9,7 +9,7 @@ permalink: /posts/2014-12-17-Ungelenkter-Zugang-zu-allen-Ebenen-der-Gesundheitsv
 
 **Der ungelenkte Zugang zu allen Ebenen der Gesundheitsversorgung  verursacht Belastungen sowie Kosten und schwächt  die Medizinische Grundversorgung**
 
-In einer von der Österreichischen Nationalbank geförderten populationsbasierten Befragung an 3500 Personen („Die Inanspruchnahme von Gesundheitseinrichtungen in Österreich“) konnte eine Arbeitsgruppe der Abteilung für Allgemeinmedizin an der MedUni Wien zeigen, dass die Inanspruchnahme von Gesundheitseinrichtungen der sekundären und tertiären Ebene im internationalen Vergleich in Österreich über 4-fach höher liegen. Diese Ergebnisse wurden nun im angesehenen European Journal of Public Health veröffentlicht.[^1]
+In einer von der Österreichischen Nationalbank geförderten populationsbasierten Befragung an 3500 Personen („Die Inanspruchnahme von Gesundheitseinrichtungen in Österreich“) konnte eine Arbeitsgruppe der Abteilung für Allgemeinmedizin an der MedUni Wien zeigen, dass die Inanspruchnahme von Gesundheitseinrichtungen der sekundären und tertiären Ebene im internationalen Vergleich in Österreich über 4-fach höher liegen. Diese Ergebnisse wurden nun im angesehenen [European Journal of Public Health](http://dx.doi.org/10.1093/eurpub/cku189) veröffentlicht.[^1]
 
 Die überhöhte Inanspruchnahme der Spitäler und Ambulanzen
 ---------------------------------------------------------
