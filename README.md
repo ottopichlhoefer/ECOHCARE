@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/18279/ottopichlhoefer/ECOHCARE.svg)](https://zenodo.org/badge/latestdoi/18279/ottopichlhoefer/ECOHCARE)
 ECOHCARE
 ========
 
